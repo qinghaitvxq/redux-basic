@@ -1,0 +1,22 @@
+{
+  "name": "redux-basic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qinghaitvxq/redux-basic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qinghaitvxq/redux-basic/issues"
+  },
+  "homepage": "https://github.com/qinghaitvxq/redux-basic#readme",
+  "dependencies": {
+    "redux": "^4.0.0"
+  }
+}
